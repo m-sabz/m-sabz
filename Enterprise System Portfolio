@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-03T08:32:35.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="0j9x4KgGyAVHRy4NRSdD" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-03T09:31:31.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="KPbGgX9Kav8D_0ji92ZT" version="15.4.1" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
-    <mxGraphModel dx="6048" dy="3689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
+    <mxGraphModel dx="4444" dy="2709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="7DtwX89z46HDzL47ONbB-215" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-209">
           <mxGeometry x="70" y="10" width="560" height="510" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-169" value="&lt;font style=&quot;font-size: 22px&quot;&gt;6. Project Delivery&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7DtwX89z46HDzL47ONbB-215">
+        <mxCell id="7DtwX89z46HDzL47ONbB-169" value="&lt;font style=&quot;font-size: 22px&quot;&gt;6. Project Delivery&lt;/font&gt;" style="text;html=1;strokeColor=#000000;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7DtwX89z46HDzL47ONbB-215">
           <mxGeometry x="145" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7DtwX89z46HDzL47ONbB-170" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-215">
@@ -19,19 +19,19 @@
         <mxCell id="7DtwX89z46HDzL47ONbB-171" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-170">
           <mxGeometry width="250" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-172" value="Proeject Management" style="text;html=1;strokeColor=#6c8ebf;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="7DtwX89z46HDzL47ONbB-170">
+        <mxCell id="7DtwX89z46HDzL47ONbB-172" value="Project Management" style="text;html=1;strokeColor=#000000;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;dashed=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-170">
           <mxGeometry x="25" y="10" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-173" value="Shift Management &amp;amp; Rostering" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-170">
+        <mxCell id="7DtwX89z46HDzL47ONbB-173" value="Shift Management &amp;amp; Rostering" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-170">
           <mxGeometry x="25" y="75" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-174" value="Integrated Project Management System" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-170">
+        <mxCell id="7DtwX89z46HDzL47ONbB-174" value="Integrated Project Management System" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-170">
           <mxGeometry x="25" y="215" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-175" value="SPEED" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-170">
+        <mxCell id="7DtwX89z46HDzL47ONbB-175" value="SPEED" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-170">
           <mxGeometry x="25" y="295" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-176" value="Global ESS" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-170">
+        <mxCell id="7DtwX89z46HDzL47ONbB-176" value="Global ESS" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-170">
           <mxGeometry x="25" y="155" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7DtwX89z46HDzL47ONbB-178" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-215">
@@ -40,10 +40,10 @@
         <mxCell id="7DtwX89z46HDzL47ONbB-179" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-178">
           <mxGeometry width="250" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-180" value="Online Learning" style="text;html=1;strokeColor=#6c8ebf;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="7DtwX89z46HDzL47ONbB-178">
+        <mxCell id="7DtwX89z46HDzL47ONbB-180" value="Online Learning" style="text;html=1;strokeColor=#000000;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;dashed=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-178">
           <mxGeometry x="41.25" y="10" width="167.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-181" value="Budget Management System" style="text;html=1;strokeColor=none;fillColor=#E1D5E7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-178">
+        <mxCell id="7DtwX89z46HDzL47ONbB-181" value="Budget Management System" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-178">
           <mxGeometry x="25" y="80" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7DtwX89z46HDzL47ONbB-212" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -61,110 +61,23 @@
         <mxCell id="7DtwX89z46HDzL47ONbB-416" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=#D5E8D4;fontSize=18;align=center;strokeWidth=2;" vertex="1" parent="7DtwX89z46HDzL47ONbB-490">
           <mxGeometry x="55" y="105" width="230" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-145" value="Community Connect" style="text;html=1;strokeColor=#6c8ebf;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="7DtwX89z46HDzL47ONbB-490">
+        <mxCell id="7DtwX89z46HDzL47ONbB-145" value="Community Connect" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;dashed=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-490">
           <mxGeometry x="86.25" y="115" width="167.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-146" value="TCS Purpose4Life" style="text;html=1;strokeColor=none;fillColor=#E1D5E7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-490">
+        <mxCell id="7DtwX89z46HDzL47ONbB-146" value="TCS Purpose4Life" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-490">
           <mxGeometry x="70" y="198.75" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-147" value="Knome" style="text;html=1;strokeColor=none;fillColor=#E1D5E7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-490">
+        <mxCell id="7DtwX89z46HDzL47ONbB-147" value="Knome" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-490">
           <mxGeometry x="70" y="278.75" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-148" value="Fresco Talk" style="text;html=1;strokeColor=none;fillColor=#E1D5E7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-490">
+        <mxCell id="7DtwX89z46HDzL47ONbB-148" value="Fresco Talk" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-490">
           <mxGeometry x="70" y="328.75" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-149" value="TCS Fit4Life" style="text;html=1;strokeColor=none;fillColor=#E1D5E7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-490">
+        <mxCell id="7DtwX89z46HDzL47ONbB-149" value="TCS Fit4Life" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-490">
           <mxGeometry x="70" y="393.75" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-135" value="&lt;font style=&quot;font-size: 22px&quot;&gt;4. Collaboration&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7DtwX89z46HDzL47ONbB-490">
+        <mxCell id="7DtwX89z46HDzL47ONbB-135" value="&lt;font style=&quot;font-size: 22px&quot;&gt;4. Collaboration&lt;/font&gt;" style="text;html=1;strokeColor=#000000;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7DtwX89z46HDzL47ONbB-490">
           <mxGeometry x="35" y="15" width="270" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-464" value="" style="group;fontSize=18;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1828.001728395062" y="-877.5" width="795.0617283950617" height="590" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-466" value="&lt;font style=&quot;font-size: 22px&quot;&gt;1.Employee Services&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7DtwX89z46HDzL47ONbB-464">
-          <mxGeometry x="280.8641975308642" y="10" width="233.33333333333331" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-496" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-464">
-          <mxGeometry width="795.0617283950617" height="590" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-465" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#D5E8D4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7DtwX89z46HDzL47ONbB-496">
-          <mxGeometry width="795.0617283950617" height="590" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-495" value="&lt;font style=&quot;font-size: 22px&quot;&gt;1.Employee Services&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7DtwX89z46HDzL47ONbB-496">
-          <mxGeometry x="280.8641975308642" y="10" width="233.33333333333331" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-467" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-464">
-          <mxGeometry x="34.5679012345679" y="110" width="216.91358024691337" height="410" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-492" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-467">
-          <mxGeometry x="0.8641975308640042" width="216.04938271604937" height="410" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-468" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-492">
-          <mxGeometry width="216.04938271604937" height="410" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-469" value="Employee Self Services" style="text;html=1;strokeColor=#6c8ebf;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="7DtwX89z46HDzL47ONbB-492">
-          <mxGeometry x="21.604938271604937" y="10" width="172.8395061728395" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-470" value="Global ESS" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-492">
-          <mxGeometry x="21.604938271604937" y="80" width="172.8395061728395" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-471" value="My Allocation" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-492">
-          <mxGeometry x="21.604938271604937" y="120" width="172.8395061728395" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-472" value="TCS ExOP" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-492">
-          <mxGeometry x="21.604938271604937" y="160" width="172.8395061728395" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-473" value="Time Sheet Portal" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-492">
-          <mxGeometry x="21.604938271604937" y="200" width="172.8395061728395" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-474" value="MediBuddy" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-492">
-          <mxGeometry x="21.604938271604937" y="240" width="172.8395061728395" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-475" value="Global ESS" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-492">
-          <mxGeometry x="21.604938271604937" y="280" width="172.8395061728395" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-476" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-464">
-          <mxGeometry x="289.5061728395062" y="110" width="218.8893827160493" height="410" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-493" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-476">
-          <mxGeometry x="2.8399999999999466" width="216.04938271604937" height="410" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-477" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-493">
-          <mxGeometry width="216.04938271604937" height="410" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-478" value="Concerns" style="text;html=1;strokeColor=#6c8ebf;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="7DtwX89z46HDzL47ONbB-493">
-          <mxGeometry x="23.024691358024683" y="7.5" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-479" value="Employee Concern" style="text;html=1;strokeColor=none;fillColor=#E1D5E7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-493">
-          <mxGeometry x="21.604938271604937" y="67.5" width="172.8395061728395" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-480" value="TCS Global Helpdesk" style="text;html=1;strokeColor=none;fillColor=#E1D5E7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-493">
-          <mxGeometry x="21.60469135802468" y="107.5" width="172.84" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-481" value="Accomodation and Transport" style="text;html=1;strokeColor=none;fillColor=#E1D5E7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-493">
-          <mxGeometry x="21.60469135802468" y="177.5" width="172.84" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-482" value="Holiday Home" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-493">
-          <mxGeometry x="21.604938271604937" y="270" width="172.8395061728395" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-483" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-464">
-          <mxGeometry x="544.4444444444445" y="110" width="216.04938271604937" height="410" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-494" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-483">
-          <mxGeometry x="-0.6246913580247053" width="216.04938271604937" height="410" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-484" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-494">
-          <mxGeometry width="216.04938271604937" height="410" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-485" value="Personal Information Management" style="text;html=1;strokeColor=#6c8ebf;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="7DtwX89z46HDzL47ONbB-494">
-          <mxGeometry x="17.284691358024688" y="10" width="181.48" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-486" value="My Documents" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-494">
-          <mxGeometry x="16.664691358024683" y="117.5" width="182.72" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-487" value="Personal Records" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-494">
-          <mxGeometry x="16.664691358024683" y="167.5" width="182.72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7DtwX89z46HDzL47ONbB-512" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1298.4933333333333" y="-290" width="218.8893827160493" height="410" as="geometry" />
@@ -220,37 +133,37 @@
         <mxCell id="7DtwX89z46HDzL47ONbB-642" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-641">
           <mxGeometry width="216.04938271604937" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-643" value="Human Resources" style="text;html=1;strokeColor=#6c8ebf;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="7DtwX89z46HDzL47ONbB-641">
+        <mxCell id="7DtwX89z46HDzL47ONbB-643" value="Human Resources" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;dashed=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-641">
           <mxGeometry x="21.604938271604937" y="10" width="172.8395061728395" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-644" value="GEMS" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-641">
+        <mxCell id="7DtwX89z46HDzL47ONbB-644" value="GEMS" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-641">
           <mxGeometry x="21.604938271604937" y="90" width="172.8395061728395" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-645" value="Pulse 2020" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-641">
+        <mxCell id="7DtwX89z46HDzL47ONbB-645" value="Pulse 2020" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-641">
           <mxGeometry x="21.604938271604937" y="160" width="172.8395061728395" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-646" value="SPEED" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-641">
+        <mxCell id="7DtwX89z46HDzL47ONbB-646" value="SPEED" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-641">
           <mxGeometry x="21.604938271604937" y="240" width="172.8395061728395" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7DtwX89z46HDzL47ONbB-634" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-647">
           <mxGeometry x="343.46000000000004" y="150" width="216.04938271604937" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-635" value="Talent Acquisition" style="text;html=1;strokeColor=#6c8ebf;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="7DtwX89z46HDzL47ONbB-647">
+        <mxCell id="7DtwX89z46HDzL47ONbB-635" value="Talent Acquisition" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;dashed=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-647">
           <mxGeometry x="379.1081481481482" y="170" width="144.7530864197531" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-636" value="iConnect" style="text;html=1;strokeColor=none;fillColor=#E1D5E7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-647">
+        <mxCell id="7DtwX89z46HDzL47ONbB-636" value="iConnect" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-647">
           <mxGeometry x="365.064938271605" y="240" width="172.8395061728395" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-637" value="Bring your buddy" style="text;html=1;strokeColor=none;fillColor=#E1D5E7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-647">
+        <mxCell id="7DtwX89z46HDzL47ONbB-637" value="Bring your buddy" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-647">
           <mxGeometry x="365.064938271605" y="330" width="172.8395061728395" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-638" value="Global Recruitment System" style="text;html=1;strokeColor=none;fillColor=#E1D5E7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-647">
+        <mxCell id="7DtwX89z46HDzL47ONbB-638" value="Global Recruitment System" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-647">
           <mxGeometry x="365.064938271605" y="380" width="172.8395061728395" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-639" value="Global Background Check Information System" style="text;html=1;strokeColor=none;fillColor=#E1D5E7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-647">
+        <mxCell id="7DtwX89z46HDzL47ONbB-639" value="Global Background Check Information System" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-647">
           <mxGeometry x="365.064938271605" y="440" width="172.8395061728395" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-640" value="&lt;font style=&quot;font-size: 22px&quot;&gt;3. Talent Management &amp;amp; HR&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7DtwX89z46HDzL47ONbB-647">
+        <mxCell id="7DtwX89z46HDzL47ONbB-640" value="&lt;font style=&quot;font-size: 22px&quot;&gt;3. Talent Management &amp;amp; HR&lt;/font&gt;" style="text;html=1;strokeColor=#000000;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7DtwX89z46HDzL47ONbB-647">
           <mxGeometry x="174.63493827160482" y="45" width="304.2" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7DtwX89z46HDzL47ONbB-648" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -259,7 +172,7 @@
         <mxCell id="7DtwX89z46HDzL47ONbB-214" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-648">
           <mxGeometry width="710" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-151" value="&lt;font style=&quot;font-size: 22px&quot;&gt;5. Learning&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7DtwX89z46HDzL47ONbB-648">
+        <mxCell id="7DtwX89z46HDzL47ONbB-151" value="&lt;font style=&quot;font-size: 22px&quot;&gt;5. Learning&lt;/font&gt;" style="text;html=1;strokeColor=#000000;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7DtwX89z46HDzL47ONbB-648">
           <mxGeometry x="215" y="10" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7DtwX89z46HDzL47ONbB-153" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-648">
@@ -268,22 +181,22 @@
         <mxCell id="7DtwX89z46HDzL47ONbB-154" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-153">
           <mxGeometry width="250" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-155" value="Knowledge Management" style="text;html=1;strokeColor=#6c8ebf;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="7DtwX89z46HDzL47ONbB-153">
+        <mxCell id="7DtwX89z46HDzL47ONbB-155" value="Knowledge Management" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;dashed=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-153">
           <mxGeometry x="25" y="10" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-156" value="IRC Connect" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-153">
+        <mxCell id="7DtwX89z46HDzL47ONbB-156" value="IRC Connect" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-153">
           <mxGeometry x="25" y="85" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-157" value="Magzter" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-153">
+        <mxCell id="7DtwX89z46HDzL47ONbB-157" value="Magzter" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-153">
           <mxGeometry x="25" y="185" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-158" value="iQMS wiki" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-153">
+        <mxCell id="7DtwX89z46HDzL47ONbB-158" value="iQMS wiki" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-153">
           <mxGeometry x="25" y="235" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-166" value="KNOWMAX" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-153">
+        <mxCell id="7DtwX89z46HDzL47ONbB-166" value="KNOWMAX" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-153">
           <mxGeometry x="25" y="135" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-167" value="Mindworks" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-153">
+        <mxCell id="7DtwX89z46HDzL47ONbB-167" value="Mindworks" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-153">
           <mxGeometry x="25" y="285" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7DtwX89z46HDzL47ONbB-159" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-648">
@@ -292,56 +205,20 @@
         <mxCell id="7DtwX89z46HDzL47ONbB-160" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-159">
           <mxGeometry width="250" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-161" value="Online Learning" style="text;html=1;strokeColor=#6c8ebf;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="7DtwX89z46HDzL47ONbB-159">
+        <mxCell id="7DtwX89z46HDzL47ONbB-161" value="Online Learning" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;dashed=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-159">
           <mxGeometry x="41.25" y="10" width="167.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-162" value="Fresco Play" style="text;html=1;strokeColor=none;fillColor=#E1D5E7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-159">
+        <mxCell id="7DtwX89z46HDzL47ONbB-162" value="Fresco Play" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-159">
           <mxGeometry x="25" y="100" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-163" value="Udemy" style="text;html=1;strokeColor=none;fillColor=#E1D5E7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-159">
+        <mxCell id="7DtwX89z46HDzL47ONbB-163" value="Udemy" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-159">
           <mxGeometry x="25" y="150" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-164" value="O*Reilly Learning" style="text;html=1;strokeColor=none;fillColor=#E1D5E7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-159">
+        <mxCell id="7DtwX89z46HDzL47ONbB-164" value="O*Reilly Learning" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-159">
           <mxGeometry x="25" y="200" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-165" value="LinkedIn Learning" style="text;html=1;strokeColor=none;fillColor=#E1D5E7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-159">
+        <mxCell id="7DtwX89z46HDzL47ONbB-165" value="LinkedIn Learning" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-159">
           <mxGeometry x="25" y="260" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-84" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-759" y="-757.5" width="550" height="432.5" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-84">
-          <mxGeometry width="250" height="410" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-86" value="Finance" style="text;html=1;strokeColor=#6c8ebf;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="7DtwX89z46HDzL47ONbB-84">
-          <mxGeometry x="25" y="10" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-87" value="Facility Lease Administration" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-84">
-          <mxGeometry x="25" y="70" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-88" value="Global Procurement System (GPS)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-84">
-          <mxGeometry x="25" y="140" width="200" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-105" value="Purchase Order System" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-84">
-          <mxGeometry x="25" y="220" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-220" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-84">
-          <mxGeometry x="-10" y="22.5" width="560" height="410" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-227" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-220">
-          <mxGeometry x="310" width="250" height="410" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-230" value="Inward Outward Material Movement Tracker" style="text;html=1;strokeColor=none;fillColor=#E1D5E7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-227">
-          <mxGeometry x="25" y="80" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-219" value="&lt;font style=&quot;font-size: 22px&quot;&gt;2.Finance &amp;amp; Infrastructure&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-614" y="-857.5" width="270" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-229" value="Infrastructure" style="text;html=1;strokeColor=#6c8ebf;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="-423.37" y="-745" width="178.75" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-231" value="Seats" style="text;html=1;strokeColor=none;fillColor=#E1D5E7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="1">
-          <mxGeometry x="-434" y="-556.25" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7DtwX89z46HDzL47ONbB-650" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-923" y="-890" width="700" height="600" as="geometry" />
@@ -355,35 +232,320 @@
         <mxCell id="7DtwX89z46HDzL47ONbB-653" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-652">
           <mxGeometry width="250" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-654" value="Finance" style="text;html=1;strokeColor=#6c8ebf;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="7DtwX89z46HDzL47ONbB-652">
+        <mxCell id="7DtwX89z46HDzL47ONbB-654" value="Finance" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;dashed=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-652">
           <mxGeometry x="25" y="10" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-655" value="Facility Lease Administration" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-652">
+        <mxCell id="7DtwX89z46HDzL47ONbB-655" value="Facility Lease Administration" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-652">
           <mxGeometry x="25" y="70" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-656" value="Global Procurement System (GPS)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-652">
+        <mxCell id="7DtwX89z46HDzL47ONbB-656" value="Global Procurement System (GPS)" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-652">
           <mxGeometry x="25" y="140" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-657" value="Purchase Order System" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-652">
+        <mxCell id="7DtwX89z46HDzL47ONbB-657" value="Purchase Order System" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-652">
           <mxGeometry x="25" y="220" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-658" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-652">
+        <mxCell id="7DtwX89z46HDzL47ONbB-658" value="" style="group;strokeColor=none;" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-652">
           <mxGeometry x="-10" y="22.5" width="560" height="410" as="geometry" />
         </mxCell>
         <mxCell id="7DtwX89z46HDzL47ONbB-659" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-658">
           <mxGeometry x="310" width="250" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-660" value="Inward Outward Material Movement Tracker" style="text;html=1;strokeColor=none;fillColor=#E1D5E7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-659">
+        <mxCell id="7DtwX89z46HDzL47ONbB-660" value="Inward Outward Material Movement Tracker" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-659">
           <mxGeometry x="25" y="80" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-661" value="&lt;font style=&quot;font-size: 22px&quot;&gt;2.Finance &amp;amp; Infrastructure&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7DtwX89z46HDzL47ONbB-650">
+        <mxCell id="7DtwX89z46HDzL47ONbB-661" value="&lt;font style=&quot;font-size: 22px&quot;&gt;2.Finance &amp;amp; Infrastructure&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7DtwX89z46HDzL47ONbB-650">
           <mxGeometry x="215" y="20" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-662" value="Infrastructure" style="text;html=1;strokeColor=#6c8ebf;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="7DtwX89z46HDzL47ONbB-650">
+        <mxCell id="7DtwX89z46HDzL47ONbB-662" value="Infrastructure" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;dashed=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-650">
           <mxGeometry x="405.63" y="132.5" width="178.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7DtwX89z46HDzL47ONbB-663" value="Seats" style="text;html=1;strokeColor=none;fillColor=#E1D5E7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-650">
+        <mxCell id="7DtwX89z46HDzL47ONbB-663" value="Seats" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;strokeColor=default;" vertex="1" parent="7DtwX89z46HDzL47ONbB-650">
           <mxGeometry x="395" y="321.25" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-466" value="&lt;font style=&quot;font-size: 22px&quot;&gt;1.Employee Services&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1547.1375308641977" y="-867.5" width="233.33333333333331" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-467" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1793.433827160494" y="-767.5" width="216.91358024691337" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-492" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-467">
+          <mxGeometry x="0.8641975308640042" width="216.04938271604937" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-468" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-492">
+          <mxGeometry width="216.04938271604937" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-469" value="Employee Self Services" style="text;html=1;strokeColor=#6c8ebf;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="7DtwX89z46HDzL47ONbB-492">
+          <mxGeometry x="21.604938271604937" y="10" width="172.8395061728395" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-470" value="Global ESS" style="text;html=1;strokeColor=#9673a6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-492">
+          <mxGeometry x="21.604938271604937" y="80" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-471" value="My Allocation" style="text;html=1;strokeColor=#9673a6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-492">
+          <mxGeometry x="21.604938271604937" y="120" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-472" value="TCS ExOP" style="text;html=1;strokeColor=#9673a6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-492">
+          <mxGeometry x="21.604938271604937" y="160" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-473" value="Time Sheet Portal" style="text;html=1;strokeColor=#9673a6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-492">
+          <mxGeometry x="21.604938271604937" y="200" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-474" value="MediBuddy" style="text;html=1;strokeColor=#9673a6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-492">
+          <mxGeometry x="21.604938271604937" y="240" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-475" value="Global ESS" style="text;html=1;strokeColor=#9673a6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-492">
+          <mxGeometry x="21.604938271604937" y="280" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-477" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1535.6555555555558" y="-767.5" width="216.04938271604937" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-478" value="Concerns" style="text;html=1;strokeColor=#6c8ebf;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-1512.630864197531" y="-760" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-479" value="Employee Concern" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-1514.050617283951" y="-700" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-480" value="TCS Global Helpdesk" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-1514.0508641975312" y="-660" width="172.84" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-481" value="Accomodation and Transport" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-1514.0508641975312" y="-590" width="172.84" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-482" value="Holiday Home" style="text;html=1;strokeColor=#9673a6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-1514.050617283951" y="-497.5" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-667" value="Employee Concern" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-1514.050617283951" y="-700" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-668" value="TCS Global Helpdesk" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-1514.0508641975312" y="-660" width="172.84" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-669" value="Accomodation and Transport" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-1514.0508641975312" y="-590" width="172.84" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-671" value="&lt;font style=&quot;font-size: 22px&quot;&gt;1.Employee Services&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1544.2975308641978" y="-867.5" width="233.33333333333331" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-675" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1790.5938271604941" y="-767.5" width="216.91358024691337" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-676" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-675">
+          <mxGeometry x="0.8641975308640042" width="216.04938271604937" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-677" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-676">
+          <mxGeometry width="216.04938271604937" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-678" value="Employee Self Services" style="text;html=1;strokeColor=#6c8ebf;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="7DtwX89z46HDzL47ONbB-676">
+          <mxGeometry x="21.604938271604937" y="10" width="172.8395061728395" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-679" value="Global ESS" style="text;html=1;strokeColor=#9673a6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-676">
+          <mxGeometry x="21.604938271604937" y="80" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-680" value="My Allocation" style="text;html=1;strokeColor=#9673a6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-676">
+          <mxGeometry x="21.604938271604937" y="120" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-681" value="TCS ExOP" style="text;html=1;strokeColor=#9673a6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-676">
+          <mxGeometry x="21.604938271604937" y="160" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-682" value="Time Sheet Portal" style="text;html=1;strokeColor=#9673a6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-676">
+          <mxGeometry x="21.604938271604937" y="200" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-683" value="MediBuddy" style="text;html=1;strokeColor=#9673a6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-676">
+          <mxGeometry x="21.604938271604937" y="240" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-684" value="Global ESS" style="text;html=1;strokeColor=#9673a6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-676">
+          <mxGeometry x="21.604938271604937" y="280" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-699" value="Personal Information Management" style="text;html=1;strokeColor=#6c8ebf;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-1264.0572839506176" y="-757.5" width="181.48" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-687" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1532.8155555555559" y="-767.5" width="216.04938271604937" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-688" value="Concerns" style="text;html=1;strokeColor=#6c8ebf;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-1509.7908641975312" y="-760" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-689" value="Employee Concern" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-1511.210617283951" y="-700" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-690" value="TCS Global Helpdesk" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-1511.2108641975312" y="-660" width="172.84" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-691" value="Accomodation and Transport" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-1511.2108641975312" y="-590" width="172.84" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-692" value="Holiday Home" style="text;html=1;strokeColor=#9673a6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-1511.210617283951" y="-497.5" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-693" value="Employee Concern" style="text;html=1;strokeColor=#A680B8;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-1511.210617283951" y="-700" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-694" value="TCS Global Helpdesk" style="text;html=1;strokeColor=#A680B8;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-1511.2108641975312" y="-660" width="172.84" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-695" value="Accomodation and Transport" style="text;html=1;strokeColor=#A680B8;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-1511.2108641975312" y="-590" width="172.84" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-704" value="&lt;font style=&quot;font-size: 22px&quot;&gt;1.Employee Services&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1542.8775308641978" y="-867.5" width="233.33333333333331" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-705" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1823.741728395062" y="-877.5" width="795.0617283950617" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-707" value="&lt;font style=&quot;font-size: 22px&quot;&gt;1.Employee Services&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7DtwX89z46HDzL47ONbB-705">
+          <mxGeometry x="280.8641975308642" y="10" width="233.33333333333331" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-708" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1789.173827160494" y="-767.5" width="216.91358024691337" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-709" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-708">
+          <mxGeometry x="0.8641975308640042" width="216.04938271604937" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-710" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-709">
+          <mxGeometry width="216.04938271604937" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-711" value="Employee Self Services" style="text;html=1;strokeColor=#6c8ebf;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="7DtwX89z46HDzL47ONbB-709">
+          <mxGeometry x="21.604938271604937" y="10" width="172.8395061728395" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-712" value="Global ESS" style="text;html=1;strokeColor=#9673a6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-709">
+          <mxGeometry x="21.604938271604937" y="80" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-713" value="My Allocation" style="text;html=1;strokeColor=#9673a6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-709">
+          <mxGeometry x="21.604938271604937" y="120" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-714" value="TCS ExOP" style="text;html=1;strokeColor=#9673a6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-709">
+          <mxGeometry x="21.604938271604937" y="160" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-715" value="Time Sheet Portal" style="text;html=1;strokeColor=#9673a6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-709">
+          <mxGeometry x="21.604938271604937" y="200" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-716" value="MediBuddy" style="text;html=1;strokeColor=#9673a6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-709">
+          <mxGeometry x="21.604938271604937" y="240" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-717" value="Global ESS" style="text;html=1;strokeColor=#9673a6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-709">
+          <mxGeometry x="21.604938271604937" y="280" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-718" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1534.2355555555557" y="-767.5" width="508.39555555555535" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-719" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-718">
+          <mxGeometry x="2.8399999999999466" width="505.55555555555543" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-720" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-719">
+          <mxGeometry width="216.04938271604937" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-721" value="Concerns" style="text;html=1;strokeColor=#6c8ebf;fillColor=#7EA6E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="7DtwX89z46HDzL47ONbB-719">
+          <mxGeometry x="23.024691358024683" y="7.5" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-722" value="Employee Concern" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-719">
+          <mxGeometry x="21.604938271604937" y="67.5" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-723" value="TCS Global Helpdesk" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-719">
+          <mxGeometry x="21.60469135802468" y="107.5" width="172.84" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-724" value="Accomodation and Transport" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-719">
+          <mxGeometry x="21.60469135802468" y="177.5" width="172.84" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-725" value="Holiday Home" style="text;html=1;strokeColor=#9673a6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-719">
+          <mxGeometry x="21.604938271604937" y="270" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-726" value="Employee Concern" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-719">
+          <mxGeometry x="21.60493827160485" y="67.5" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-727" value="TCS Global Helpdesk" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-719">
+          <mxGeometry x="21.60469135802464" y="107.5" width="172.84" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-728" value="Accomodation and Transport" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-719">
+          <mxGeometry x="21.60469135802464" y="177.5" width="172.84" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-730" value="&lt;font style=&quot;font-size: 22px&quot;&gt;1.Employee Services&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7DtwX89z46HDzL47ONbB-719">
+          <mxGeometry x="-8.641975308642031" y="-100" width="233.33333333333331" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-731" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-719">
+          <mxGeometry x="-289.50617283950623" y="-110" width="795.0617283950617" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-732" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#D5E8D4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7DtwX89z46HDzL47ONbB-731">
+          <mxGeometry width="795.0617283950617" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-733" value="&lt;font style=&quot;font-size: 22px&quot;&gt;1.Employee Services&lt;/font&gt;" style="text;html=1;strokeColor=#000000;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7DtwX89z46HDzL47ONbB-731">
+          <mxGeometry x="280.8641975308642" y="10" width="233.33333333333331" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-756" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-731">
+          <mxGeometry x="540.8997530864197" y="107.5" width="216.04938271604937" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-757" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-756">
+          <mxGeometry width="216.04938271604937" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-758" value="Personal Information Management" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;dashed=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-756">
+          <mxGeometry x="17.284691358024688" y="10" width="181.48" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-759" value="My Documents" style="text;html=1;strokeColor=#9673a6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-756">
+          <mxGeometry x="16.664691358024683" y="117.5" width="182.72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-760" value="Personal Records" style="text;html=1;strokeColor=#9673a6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-756">
+          <mxGeometry x="16.664691358024683" y="167.5" width="182.72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-734" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-719">
+          <mxGeometry x="-254.93827160493834" width="216.91358024691337" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-735" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-734">
+          <mxGeometry x="0.8641975308640042" width="216.04938271604937" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-736" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-735">
+          <mxGeometry width="216.04938271604937" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-737" value="Employee Self Services" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;dashed=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-735">
+          <mxGeometry x="21.604938271604937" y="10" width="172.8395061728395" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-738" value="Global ESS" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-735">
+          <mxGeometry x="21.604938271604937" y="80" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-739" value="My Allocation" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-735">
+          <mxGeometry x="21.604938271604937" y="120" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-740" value="TCS ExOP" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-735">
+          <mxGeometry x="21.604938271604937" y="160" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-741" value="Time Sheet Portal" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-735">
+          <mxGeometry x="21.604938271604937" y="200" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-742" value="MediBuddy" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-735">
+          <mxGeometry x="21.604938271604937" y="240" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-743" value="Global ESS" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-735">
+          <mxGeometry x="21.604938271604937" y="280" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-744" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-719">
+          <mxGeometry x="-5.684341886080802e-14" width="218.8893827160493" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-745" value="" style="group" vertex="1" connectable="0" parent="7DtwX89z46HDzL47ONbB-744">
+          <mxGeometry x="2.8399999999999466" width="216.04938271604937" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-746" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-745">
+          <mxGeometry width="216.04938271604937" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-747" value="Concerns" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;dashed=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-745">
+          <mxGeometry x="23.024691358024683" y="7.5" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-748" value="Employee Concern" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-745">
+          <mxGeometry x="21.604938271604937" y="67.5" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-749" value="TCS Global Helpdesk" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-745">
+          <mxGeometry x="21.60469135802468" y="107.5" width="172.84" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-750" value="Accomodation and Transport" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-745">
+          <mxGeometry x="21.60469135802468" y="177.5" width="172.84" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-751" value="Holiday Home" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-745">
+          <mxGeometry x="21.604938271604937" y="270" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-752" value="Employee Concern" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-745">
+          <mxGeometry x="21.60493827160485" y="67.5" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-753" value="TCS Global Helpdesk" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-745">
+          <mxGeometry x="21.60469135802464" y="107.5" width="172.84" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DtwX89z46HDzL47ONbB-754" value="Accomodation and Transport" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="7DtwX89z46HDzL47ONbB-745">
+          <mxGeometry x="21.60469135802464" y="177.5" width="172.84" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
