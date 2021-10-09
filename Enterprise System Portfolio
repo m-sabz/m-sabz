@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T15:46:17.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="pmS8r8QGIMj7fNr9HZK4" version="14.8.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-09T15:51:24.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="TeJjTaBXMWhhBwY9X_7C" version="14.8.0" type="github" pages="4">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Base Enterprise System Portfolio">
     <mxGraphModel dx="3075" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
       <root>
@@ -1293,7 +1293,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Copy of B/W Base" id="6yBq34NyJsc3a9x8En4q">
-    <mxGraphModel dx="4113" dy="2397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
+    <mxGraphModel dx="4113" dy="2281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
       <root>
         <mxCell id="GmDwsbqMb0nBlmnWZuVr-0" />
         <mxCell id="GmDwsbqMb0nBlmnWZuVr-1" parent="GmDwsbqMb0nBlmnWZuVr-0" />
@@ -1347,6 +1347,9 @@
         </mxCell>
         <mxCell id="6nRch2QheahC7DgsaIwE-51" value="JIRA" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="6nRch2QheahC7DgsaIwE-38">
           <mxGeometry x="20.094061109507702" y="225.15254237288136" width="147.25701459034786" height="27.45762711864407" as="geometry" />
+        </mxCell>
+        <mxCell id="6nRch2QheahC7DgsaIwE-164" value="OpenSSL" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="6nRch2QheahC7DgsaIwE-38">
+          <mxGeometry x="12.037857142857206" y="433.75" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6nRch2QheahC7DgsaIwE-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="GmDwsbqMb0nBlmnWZuVr-34">
           <mxGeometry x="80.00142857142858" y="100" width="173.4" height="230" as="geometry" />
@@ -1429,6 +1432,9 @@
         <mxCell id="6nRch2QheahC7DgsaIwE-19" value="JIRA" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="GmDwsbqMb0nBlmnWZuVr-103">
           <mxGeometry x="21.60493827160485" y="445" width="172.8395061728395" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6nRch2QheahC7DgsaIwE-162" value="OpenSSL" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="GmDwsbqMb0nBlmnWZuVr-103">
+          <mxGeometry x="21.60493827160485" y="539" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="6nRch2QheahC7DgsaIwE-24" value="" style="group;fillColor=#D5E8D4;" vertex="1" connectable="0" parent="GmDwsbqMb0nBlmnWZuVr-1">
           <mxGeometry x="-1569.9996296296301" y="-740" width="220" height="590" as="geometry" />
         </mxCell>
@@ -1471,6 +1477,9 @@
         <mxCell id="6nRch2QheahC7DgsaIwE-37" value="JIRA" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="6nRch2QheahC7DgsaIwE-24">
           <mxGeometry x="21.60493827160485" y="445" width="172.8395061728395" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6nRch2QheahC7DgsaIwE-163" value="OpenSSL" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="6nRch2QheahC7DgsaIwE-24">
+          <mxGeometry x="21.60493827160485" y="534" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="6nRch2QheahC7DgsaIwE-70" value="" style="group;" vertex="1" connectable="0" parent="GmDwsbqMb0nBlmnWZuVr-1">
           <mxGeometry x="-570.0038271604943" y="-750" width="220.864197530864" height="590" as="geometry" />
         </mxCell>
@@ -1506,6 +1515,9 @@
         </mxCell>
         <mxCell id="6nRch2QheahC7DgsaIwE-82" value="Linux OS" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="6nRch2QheahC7DgsaIwE-70">
           <mxGeometry x="25.349135802468822" y="390" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6nRch2QheahC7DgsaIwE-165" value="OpenSSL" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="6nRch2QheahC7DgsaIwE-70">
+          <mxGeometry x="24.00913580246913" y="440" width="172.8395061728395" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6nRch2QheahC7DgsaIwE-85" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#D5E8D4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GmDwsbqMb0nBlmnWZuVr-1">
           <mxGeometry x="-1878.49" y="-53.75" width="580" height="780" as="geometry" />
@@ -1554,6 +1566,9 @@
         </mxCell>
         <mxCell id="6nRch2QheahC7DgsaIwE-101" value="JIRA" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="6nRch2QheahC7DgsaIwE-88">
           <mxGeometry x="21.60493827160485" y="445" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6nRch2QheahC7DgsaIwE-166" value="OpenSSL" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="6nRch2QheahC7DgsaIwE-87">
+          <mxGeometry x="23.839135802468945" y="483.75" width="172.8395061728395" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6nRch2QheahC7DgsaIwE-102" value="" style="group;fillColor=#D5E8D4;" vertex="1" connectable="0" parent="GmDwsbqMb0nBlmnWZuVr-1">
           <mxGeometry x="-1568.4896296296301" y="70" width="220" height="590" as="geometry" />
@@ -1630,6 +1645,9 @@
         <mxCell id="6nRch2QheahC7DgsaIwE-125" value="JIRA" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="6nRch2QheahC7DgsaIwE-119">
           <mxGeometry x="23.584938271604937" y="178.25" width="172.8395061728395" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6nRch2QheahC7DgsaIwE-167" value="OpenSSL" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="6nRch2QheahC7DgsaIwE-119">
+          <mxGeometry x="21.60493827160485" y="401.25" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="6nRch2QheahC7DgsaIwE-133" value="" style="group;fillColor=#D5E8D4;" vertex="1" connectable="0" parent="GmDwsbqMb0nBlmnWZuVr-1">
           <mxGeometry x="-919.9996296296301" y="3.75" width="220" height="590" as="geometry" />
         </mxCell>
@@ -1683,6 +1701,9 @@
         </mxCell>
         <mxCell id="6nRch2QheahC7DgsaIwE-161" value="Git" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="6nRch2QheahC7DgsaIwE-150">
           <mxGeometry x="21.60493827160485" y="441.25" width="172.8395061728395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6nRch2QheahC7DgsaIwE-168" value="OpenSSL" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="6nRch2QheahC7DgsaIwE-150">
+          <mxGeometry x="21.60493827160508" y="491.25" width="172.8395061728395" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6nRch2QheahC7DgsaIwE-158" value="SAML" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;glass=1;" vertex="1" parent="6nRch2QheahC7DgsaIwE-149">
           <mxGeometry x="25.349135802468822" y="290" width="172.8395061728395" height="30" as="geometry" />
